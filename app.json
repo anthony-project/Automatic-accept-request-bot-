@@ -1,5 +1,5 @@
 {.  
-    "name": "Rkn Auto Request Approove Bot",
+    "name": "Automatic-accept-request-bot",
     "description": "Auto approove telegram group/channel join requests bot.",
     "keywords": [
         "Bot",
@@ -7,8 +7,8 @@
         "Pyrogram "
     ],
     
-    "repository": "https://github.com/RknDeveloper/Rkn_Auto-Request-Approve-bot",
-    "logo":"https://graph.org/file/e846f9375e9d4f4975ce4.jpg",   
+    "repository": "https://github.com/anthony-project/Automatic-accept-request-bot",
+    "logo":".",   
     
     "env": {
     "API_ID": {
