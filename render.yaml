@@ -1,11 +1,11 @@
 services:
   - type: web
     plan: free
-    name: Rkn_Auto-Request-Approve-bot
+    name: Automatic-accept-request-bot
     env: python
     buildCommand: pip install -r requirements.txt
     startCommand: python bot.py
-    repo: https://github.com/RknDeveloper/Rkn_Auto-Request-Approve-bot.git
+    repo: https://github.com/anthony-project/Automatic-accept-request-bot.git
     branch: main
     autoDeploy: false
     envVars:
