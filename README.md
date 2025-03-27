@@ -51,7 +51,3 @@ broadcast - Broadcast Massage Send All Users In Bot.
 restart - Send Message All Users In Bot & Bot Restart & Re-Deploy Server.
 ```
 
- ## ❣️Thanks To
- 
-- Thanks To [RknDeveloper](https://github.com/RknDeveloper) who have edited and modified this repo as now it is. (It's me 😂)
-
